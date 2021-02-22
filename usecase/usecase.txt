@@ -1,0 +1,23 @@
+(Seller)
++ Manage Account
++ Manage Category
++ Manage Order
++ Search Product
++ Manage Product
+(Customer)
++ Search Product
++ Purchase Product
++ Evaluate Product *
++ Manage Cart
+(Customer - Member)
++ Login
++ Feedback *
++ Manage Account
+(Customer - Passenger)
++ Registry
+(Admin)
++ Manage Account
++ Manage Interface
+(Forwarder)
++ Manage Account
++ Manage Order

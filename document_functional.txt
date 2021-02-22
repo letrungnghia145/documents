@@ -1,0 +1,28 @@
+- Functional:
+(Khách hàng)
++ Giỏ hàng
++ Thanh toán
++ Mua hàng
++ Mục yêu thích
++ Danh mục sản phẩm
++ Chi tiết sản phẩm
++ Đăng ký/Đăng nhập (Bằng MXH, tk)
++ Quản lý tài khoản (tk khách hàng)
++ Tìm kiếm sản phẩm
++ Đánh giá sản phẩm
++ Ý kiến/phản hồi
++ Nhận mail thông báo
++ Quản lý đơn hàng (Xem lịch sử mua hàng)
+(Admin)
++ Quản lý tài khoản (tk của người dùng, tk của admin)
++ Quản lý giao diện
+(Người bán hàng)
++ Quản lý tài khoản (tk người dùng, tài khoản người bán hàng)
++ Quản lý sản phẩm
++ Quản lý danh mục
++ Quản lý đơn hàng (Xem, xuất hóa đơn, xác nhận đơn hàng, xác nhận hủy)
++ Thống kê doanh thu
++ Tìm kiếm sản phẩm
+(Người giao hàng)
++ Quản lý đơn hàng (xem, xác nhận ký giao)
++ Quản lý tài khoản (tk người giao hàng)
